@@ -1,0 +1,36 @@
+header h1 {
+    background: #42d699;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    height: 100%;
+}
+.root {
+    font-size: larger;
+}
+footer {
+    background: #5a615e;
+}
+body {
+    background: #ebf5c4;
+}
+div.navbar-nav{
+    position: relative;
+    right: 120px;
+}
+div.row ul li{list-style: none}
+
+div.row ul li:hover, div.row ul a:hover {
+    text-decoration: none;
+    transform: scale(1.01);
+}
+div.row ul li{
+    color: #000;
+    font-size: 120%;
+}
+div.row ul p{
+    color: #000;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
